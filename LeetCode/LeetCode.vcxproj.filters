@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\1 - Two Sum">
+      <UniqueIdentifier>{caa8bcaa-f89f-446f-8588-6065c4d1506f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2 - Add Two Numbers">
+      <UniqueIdentifier>{48b66491-1bce-4e0c-9b79-c8fa0bf90cb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3 - Longest Substring Without Repeating Characters">
+      <UniqueIdentifier>{5d9d4172-070d-428f-8acf-810600b12658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4. Median of Two Sorted Arrays">
+      <UniqueIdentifier>{07e4deb6-3441-4a2f-ac81-9c4a58dc7890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\5. Longest Palindromic Substring">
+      <UniqueIdentifier>{2c19eeda-52a8-44a4-9ee2-46a0b7b85264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\6. ZigZag Conversion">
+      <UniqueIdentifier>{901a581e-13f2-4e0e-9ed1-de34d74e9a67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7. Reverse Integer">
+      <UniqueIdentifier>{a4e53a85-a486-43fd-a9d0-305f12ded821}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\8. String to Integer %28atoi%29">
+      <UniqueIdentifier>{91295588-d6e3-42b8-a09d-3c6dd0832224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\9. Palindrome Number">
+      <UniqueIdentifier>{22021918-f82e-4db0-b8ae-8969531d9c9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\13. Roman to Integer">
+      <UniqueIdentifier>{1f17382a-7ce1-4bfa-9d94-ac46aa3c772e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10. Regular Expression Matching">
+      <UniqueIdentifier>{b7c40d21-0662-41b0-8b40-bf5b96ef4a07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\11. Container With Most Water">
+      <UniqueIdentifier>{477e6553-ad15-4720-9db9-4392b6359712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\12. Integer to Roman">
+      <UniqueIdentifier>{13644317-ca9d-4900-af92-d51f4dfe2a2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\14. Longest Common Prefix">
+      <UniqueIdentifier>{9646c200-8244-40ab-9043-edcd268e7cef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\15. 3Sum">
+      <UniqueIdentifier>{7090235c-a02f-4527-b2e6-76422dc90856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\16. 3Sum Closest">
+      <UniqueIdentifier>{a8bdcf96-fd7d-46a9-bc22-1ae7ce6485f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\17. Letter Combinations of a Phone Number">
+      <UniqueIdentifier>{9c90b2bf-a745-49cd-90be-3f8f03e937c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\19. Remove Nth Node From End of List">
+      <UniqueIdentifier>{ccb8297f-8a84-4117-b478-0d9ba08714ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\20. Valid Parentheses">
+      <UniqueIdentifier>{578fff14-7938-4dc8-a5bd-172fbe55a3d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\21. Merge Two Sorted Lists">
+      <UniqueIdentifier>{abef1db5-30c4-42ca-8429-3816949f5111}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1.cpp">
+      <Filter>Source Files\1 - Two Sum</Filter>
+    </ClCompile>
+    <ClCompile Include="src\2.cpp">
+      <Filter>Source Files\2 - Add Two Numbers</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3.cpp">
+      <Filter>Source Files\3 - Longest Substring Without Repeating Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="src\4.cpp">
+      <Filter>Source Files\4. Median of Two Sorted Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="src\5.cpp">
+      <Filter>Source Files\5. Longest Palindromic Substring</Filter>
+    </ClCompile>
+    <ClCompile Include="src\6.cpp">
+      <Filter>Source Files\6. ZigZag Conversion</Filter>
+    </ClCompile>
+    <ClCompile Include="src\7.cpp">
+      <Filter>Source Files\7. Reverse Integer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\8.cpp">
+      <Filter>Source Files\8. String to Integer %28atoi%29</Filter>
+    </ClCompile>
+    <ClCompile Include="src\9.cpp">
+      <Filter>Source Files\9. Palindrome Number</Filter>
+    </ClCompile>
+    <ClCompile Include="src\10.cpp">
+      <Filter>Source Files\10. Regular Expression Matching</Filter>
+    </ClCompile>
+    <ClCompile Include="src\13.cpp">
+      <Filter>Source Files\13. Roman to Integer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\11.cpp">
+      <Filter>Source Files\11. Container With Most Water</Filter>
+    </ClCompile>
+    <ClCompile Include="src\12.cpp">
+      <Filter>Source Files\12. Integer to Roman</Filter>
+    </ClCompile>
+    <ClCompile Include="src\14.cpp">
+      <Filter>Source Files\14. Longest Common Prefix</Filter>
+    </ClCompile>
+    <ClCompile Include="src\15.cpp">
+      <Filter>Source Files\15. 3Sum</Filter>
+    </ClCompile>
+    <ClCompile Include="src\16.cpp">
+      <Filter>Source Files\16. 3Sum Closest</Filter>
+    </ClCompile>
+    <ClCompile Include="src\17.cpp">
+      <Filter>Source Files\17. Letter Combinations of a Phone Number</Filter>
+    </ClCompile>
+    <ClCompile Include="src\19.cpp">
+      <Filter>Source Files\19. Remove Nth Node From End of List</Filter>
+    </ClCompile>
+    <ClCompile Include="src\20.cpp">
+      <Filter>Source Files\20. Valid Parentheses</Filter>
+    </ClCompile>
+    <ClCompile Include="src\21.cpp">
+      <Filter>Source Files\21. Merge Two Sorted Lists</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
